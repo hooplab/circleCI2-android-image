@@ -1,4 +1,4 @@
-FROM runmymind/docker-android-sdk
+FROM circleci/android:api-25-alpha
 MAINTAINER Øystein Tandberg <oystein@hoopla.no>
 
 # Install curl
