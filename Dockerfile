@@ -1,4 +1,4 @@
-FROM circleci/android:api-25-alpha
+FROM circleci/android:api-25
 MAINTAINER Øystein Tandberg <oystein@hoopla.no>
 
 USER root
